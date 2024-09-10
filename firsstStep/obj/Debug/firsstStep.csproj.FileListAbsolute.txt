@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\obj\Debug\firsstStep.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\obj\Debug\firsstStep.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\bin\Debug\firsstStep.exe.config
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\bin\Debug\firsstStep.exe
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\bin\Debug\firsstStep.pdb
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\obj\Debug\firsstStep.exe
+C:\Users\User\Desktop\firstStep\firsstStep\firsstStep\obj\Debug\firsstStep.pdb
